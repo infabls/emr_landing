@@ -1,0 +1,233 @@
+*{
+	font-family: 'Montserrat';
+}
+.testimonials .owl-controls{
+	display:none;
+}
+.navbar-header{
+	background: url('../images/menu.jpg');
+	background-position-x: 50%;
+	background-repeat: no-repeat;
+	/*background: #9a1f1f;*/
+}
+.navbar .navbar-collapse{
+		background: url('../images/menu.jpg');
+}
+.navbar.fixed .navbar-collapse .navbar-nav{
+	overflow-y: unset;
+}
+.navbar-brand{
+	/*position: relative;*/
+	background:#fff;
+    /*background-position-x: 45%;*/
+}
+
+.navbar-brand:hover{
+/*	background: url('../images/menu.jpg');
+	background-position-x: 95%;*/
+	background:#fff;
+}
+.navbar-nav > li > a{
+	font-size: 20px;
+}
+
+.parallelogram {
+    width: 160px;
+    height: 100px;
+    -webkit-transform: skew(30deg);
+    -moz-transform: skew(30deg);
+    -o-transform: skew(30deg);
+    transform: skew(30deg);
+}
+.parallelogram img{
+	    width: 100%;
+    max-width: 75px;
+        margin: 0 0 0 15px;
+        -webkit-transform: skew(-30eg);
+    -moz-transform: skew(-30deg);
+    -o-transform: skew(-30deg);
+    transform: skew(-30deg);
+}
+
+.tp-caption.large{
+	text-align: center;
+}
+.tp-caption.large,.tp-caption.small,.btn.btn-border{
+	color: #fff;
+}
+.tp-simpleresponsive >ul >li{
+	/*top:10% !important;*/
+}
+.icon-menu-1{
+    background: url(../images/icon/menu.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 15px;
+    height: 15px;
+    display: block;
+}
+/*MAIN*/
+.fullscreenbanner{
+	background: url(../images/head.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+.fullscreenbanner:before{
+	content: '';
+	position: absolute;
+	background: rgb(0,0,0, 0.15);
+	height: 100vh;
+	width: 100%;
+}
+.main-txt{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-webkit-flex-direction: column;
+	-moz-flex-direction: column;
+	-ms-flex-direction: column;
+	-o-flex-direction: column;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	color: #fff;
+	font-weight: bold;
+	font-size: 40px;
+	line-height: 42px;
+    height: 100%;
+    padding-top: 200px;
+}
+.main-txt h1{
+	color:#fff;
+}
+.main-txt p,.inst-link,.main-txt h1{
+	z-index: 1;
+}
+.main-txt .small-txt{
+	font-size: 25px;
+}
+
+.tp-caption.large{
+	text-align: center;
+}
+.services-1 h3{
+	font-size: 14px;
+}
+.services-1 .col-wrapper{
+	padding: 0;
+}
+.navbar.default{
+	top:0;
+}
+.parallax.parallax3{
+	background: url('../images/1pt.jpg');
+}
+.parallax.parallax3:before{
+	content: '';
+	position: absolute;
+	background: rgb(0,0,0,0.7);
+	    height: 100%;
+    width: 100%;
+}
+.testimonials .item blockquote{
+	padding-left: 0;
+	padding-right: 0;
+	font-size: 14px;
+}
+.testimonials .item blockquote:after{
+	top: 80%;
+}
+.testimonials .item blockquote:before {
+    top: -30px;}
+
+.budicon-image{
+	width: 75px;
+	height: 75px;
+	background: url(../images/timer.png);
+}
+.tp-bgimg.defaultimg:before {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.14901960784313725);
+}
+.inst{
+	width: 50px;
+	height: 50px;
+}
+.services-1 .icon-wrapper img{
+	width: 100px;
+}
+/*MAIN*/
+/*ABOUT*/
+.icon .gala{
+	width: 30px;
+}
+/*ABOUT*/
+/*SHOWCASE*/
+.owl-carousel .owl-item img{
+	max-height: 600px;
+    max-width: 1024px;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+.pcw .inner{
+	padding-top: 0;
+}
+.fix-portfolio .items li img{
+/*	width: 440px;
+	height: 330px;*/
+}
+/*SHOWCASE*/
+/*FOOTER*/
+.footer{
+	background: url('../images/menu.jpg');
+	color: #fff;
+}
+.footer a{
+	color: #fff;
+}
+.social li{
+	font-family: 'Raleway', sans-serif;
+}
+.social li a{
+	font-size: 20px;
+}
+/*FOOTER*/
+
+.yw figure a .text-overlay{
+    background: rgba(252, 225, 23, 0.6);
+}
+.bl figure a .text-overlay{
+    background: rgba(57, 49, 134, 0.6);;
+}
+.or figure a .text-overlay{
+    background: rgba(241, 126, 0, 0.6);
+}
+@media(max-width: 767px){
+.inner {
+    padding-top: 95px;
+}
+}
+.fix-portfolio .items{
+    	min-height: 640px;
+}
+@media(max-width: 640px){
+.main-txt{
+	font-size: 20px;
+	line-height: 25px;
+	padding-top: 150px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.main-txt .small-txt{
+	font-size: 14px;
+}
+}
