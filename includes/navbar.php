@@ -5,6 +5,7 @@
         <nav class="collapse navbar-collapse pull-right">
           <ul class="nav navbar-nav">
             <li><a href="/">Главная</a></li>
+            <li><a href="#contact">Контакты</a></li>
             <!-- <li><a href="#services">Services</a></li>
             <li><a href="#portfolio">Portfolio</a></li> -->
             <!-- <li><a href="../pages/about">О нас</a></li> -->
