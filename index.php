@@ -41,28 +41,28 @@
         <div class="row text-center services-1">
           <div class="col-sm-3">
             <div class="col-wrapper">
-              <div class="icon-wrapper"> <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style/images/icon/1.jpg" alt=""></div>
+              <div class="icon-wrapper"> <img class="lazyload" data-src="style/images/icon/1.jpg" alt=""></div>
               <h3>ДЛЯ ПРОМЫШЛЕННЫХ ОТХОДОВ</h3>
               <p>Контейнеры для промышленных отходов и ТБО различного объема (от 90 литров до 8 м3)</p>
             </div>
           </div>
           <div class="col-sm-3">
             <div class="col-wrapper">
-              <div class="icon-wrapper"> <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style/images/icon/3.jpg" alt=""></div>
+              <div class="icon-wrapper"> <img class="lazyload" data-src="style/images/icon/3.jpg" alt=""></div>
               <h3>ДЛЯ РАЗДЕЛЬНОГО СБОРА ОТХОДОВ</h3>
               <p>Контейнеры для различного вида ламп для их безопасной транспортировки и хранения</p>
             </div>
           </div>
           <div class="col-sm-3">
             <div class="col-wrapper">
-              <div class="icon-wrapper"> <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style/images/icon/2.jpg" alt=""></div>
+              <div class="icon-wrapper"> <img class="lazyload" data-src="style/images/icon/2.jpg" alt=""></div>
               <h3>ДЛЯ РАЗДЕЛЬНОГО СБОРА ОТХОДОВ</h3>
               <p>Продукция для сбора разливов масел, дизельного топлива, мазута и химических отходов</p>
             </div>
           </div>
           <div class="col-sm-3">
             <div class="col-wrapper">
-              <div class="icon-wrapper"> <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style/images/icon/4.jpg" alt=""></div>
+              <div class="icon-wrapper"> <img class="lazyload" data-src="style/images/icon/4.jpg" alt=""></div>
               <h3>АВАРИЙНЫЕ КОМПЛЕКТЫ И СОРБЕНТЫ</h3>
               <p>Двух-, трех-, четырех-секционные контейнеры для домашнего, офисного и промышленного использования</p>
             </div>

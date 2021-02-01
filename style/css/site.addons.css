@@ -191,8 +191,11 @@
 /*SHOWCASE*/
 /*FOOTER*/
 .footer{
-	background: url('../images/new/footer.png');
+	/*background: url('../images/new/footer.png');*/
 	color: #fff;
+}
+.navbar-brand img {
+	height: 70px !important; 
 }
 .footer a{
 	color: #fff;
