@@ -4,14 +4,17 @@
 .testimonials .owl-controls{
 	display:none;
 }
+.navbar-nav > li > a {
+	color: #2e2e2e;
+}
 .navbar-header{
-	background: url('../images/menu.jpg');
+	background: url('../images/new/head.png');
 	background-position-x: 50%;
 	background-repeat: no-repeat;
 	/*background: #9a1f1f;*/
 }
 .navbar .navbar-collapse{
-		background: url('../images/menu.jpg');
+		background: url('../images/new/head.png');
 }
 .navbar.fixed .navbar-collapse .navbar-nav{
 	overflow-y: unset;
@@ -69,7 +72,7 @@
 }
 /*MAIN*/
 .fullscreenbanner{
-	background: url(../images/head.jpg);
+	background: url(../images/new/top2.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100vh;
@@ -188,7 +191,7 @@
 /*SHOWCASE*/
 /*FOOTER*/
 .footer{
-	background: url('../images/menu.jpg');
+	background: url('../images/new/footer.png');
 	color: #fff;
 }
 .footer a{

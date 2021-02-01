@@ -1,8 +1,8 @@
   <footer class="footer">
     <div class="container inner">
-      <p class="pull-left">© 2020 ТОО "Промотход Сервис".</p>
+      <p class="pull-left">© 2020 Экомаркер.</p>
       <ul class="social pull-right">
-        <li><a href="tel:+77017102856">+7 701 710 2856</a></li>
+        <li><a href="tel:+77084396448">+7 708 439 64 48</a></li>
 <!--         <li><a href="#"><i class="icon-s-twitter"></i></a></li>
         <li><a href="#"><i class="icon-s-facebook"></i></a></li>
         <li><a href="#"><i class="icon-s-dribbble"></i></a></li>
