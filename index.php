@@ -199,8 +199,8 @@
         </div>
       </div>
     </div>
-    <iframe class="lazyload" data-src="https://yandex.ru/map-widget/v1/?um=constructor%3Aa4309103ae18cb56c9cf2da50be58bf2db355ca1277753bb25bd7d2aca48efd0&amp;source=constructor" width="100%" height="400" frameborder="0"></iframe>
   </div>
+  <section id="bottomsect" class="lazyload" data-bg="/style/images/new/footer.png"></section>
   <!-- /#contact -->
 <?php include 'includes/footer.php'; ?>
 </body>

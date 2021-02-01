@@ -192,13 +192,13 @@
 /*FOOTER*/
 .footer{
 	/*background: url('../images/new/footer.png');*/
-	color: #fff;
+	color: #2e2e2e;
 }
 .navbar-brand img {
 	height: 70px !important; 
 }
 .footer a{
-	color: #fff;
+	color: #2e2e2e;
 }
 .social li{
 	font-family: 'Raleway', sans-serif;
@@ -236,4 +236,9 @@
 .main-txt .small-txt{
 	font-size: 14px;
 }
+}
+
+#bottomsect {
+	width: 100%;
+	min-height: 355px;
 }

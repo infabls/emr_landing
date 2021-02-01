@@ -1,4 +1,4 @@
-  <footer class="footer lazyload" data-bg="/style/images/new/footer.png">
+  <footer class="footer lazyload" data-bg="/style/images/new/head.png">
     <div class="container inner">
       <p class="pull-left">© 2020 Экомаркер.</p>
       <ul class="social pull-right">
