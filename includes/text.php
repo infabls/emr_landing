@@ -1,4 +1,5 @@
-  <div id="alltextneed">
+<div class="divide30"></div>
+<section id="alltextneed">
     <div class="container">
       <div class="row">
         <div class="col-sm-2">
@@ -53,4 +54,4 @@
         </div>
       </div>
     </div>
-  </div>
+  </section>
