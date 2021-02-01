@@ -33,11 +33,12 @@
     </div>
   </div>
   <script src="https://rpo.kz/style/js/lazy.js"></script>
-  <div id="services" class="section anchor">
+  <?php require 'includes/directors.php'; ?>
+
+<!--   <div id="services" class="section anchor">
     <div class="light-wrapper">
       <div class="container inner">
         <h2 class="section-title text-center">Наша продукция</h2>
-       <!--  <p class="lead main text-center">Подпись</p> -->
         <div class="row text-center services-1">
           <div class="col-sm-3">
             <div class="col-wrapper">
@@ -67,13 +68,10 @@
               <p>Двух-, трех-, четырех-секционные контейнеры для домашнего, офисного и промышленного использования</p>
             </div>
           </div>
-        </div>
-        <!-- /.services --> 
-        
+        </div>        
       </div>
-      <!-- /.container --> 
     </div>
-  </div>
+  </div> -->
   <!-- /#home -->
   
 <!--   <div class="parallax parallax1">
