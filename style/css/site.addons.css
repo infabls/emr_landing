@@ -227,6 +227,9 @@
     	min-height: 640px;
 }
 @media(max-width: 640px){
+#bottomsect {
+	background: url('/style/images/new/mob-footer.png') !important;
+	}
 .main-txt{
 	font-size: 20px;
 	line-height: 25px;
@@ -244,6 +247,7 @@
 #bottomsect {
 	width: 100%;
 	min-height: 355px;
+	background: url('/style/images/new/footer.png');
 }
 .navbar-brand {
 	display: none !important;

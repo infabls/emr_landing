@@ -198,7 +198,7 @@
       </div>
     </div>
   </div>
-  <section id="bottomsect" class="lazyload" data-bg="/style/images/new/footer.png">
+  <section id="bottomsect">
     <div class="container">
       <div class="row">
         <div class="col-sm-3">
