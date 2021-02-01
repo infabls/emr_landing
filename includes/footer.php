@@ -1,8 +1,9 @@
   <footer class="footer lazyload" data-bg="/style/images/new/head.png">
     <div class="container inner">
-      <p class="pull-left">© 2020 Экомаркер.</p>
+      <p class="pull-left">© 2021 Экомаркер.</p>
       <ul class="social pull-right">
-        <li><a href="tel:+77084396448">+7 708 439 64 48</a></li>
+        <li><a>Media Center</a></li>
+        <li><a target="_blank" rel="nofollow" href="https://instagram.com/niro_dit">@niro_dit</a></li>
 <!--         <li><a href="#"><i class="icon-s-twitter"></i></a></li>
         <li><a href="#"><i class="icon-s-facebook"></i></a></li>
         <li><a href="#"><i class="icon-s-dribbble"></i></a></li>

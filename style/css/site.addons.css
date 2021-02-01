@@ -72,7 +72,7 @@
 }
 /*MAIN*/
 .fullscreenbanner{
-	background: url(../images/new/top2.png);
+	background: url(../images/new/fon.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100vh;
@@ -239,10 +239,24 @@
 }
 }
 
+/*мои стили от 1.02.2021*/
+
 #bottomsect {
 	width: 100%;
 	min-height: 355px;
 }
 .navbar-brand {
 	display: none !important;
+}
+
+.logo-white {
+	margin-top: 100px;
+}
+.footer-text {
+	margin-top: 100px;
+    color: #fff;
+    list-style: none;
+}
+.foot-text {
+	text-align: center;
 }

@@ -198,7 +198,33 @@
       </div>
     </div>
   </div>
-  <section id="bottomsect" class="lazyload" data-bg="/style/images/new/footer.png"></section>
+  <section id="bottomsect" class="lazyload" data-bg="/style/images/new/footer.png">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-3">
+          <img class="lazyload logo-white" data-src="style/images/new/logo-white.png" alt="">
+        </div>
+        <div class="col-sm-2"></div>
+        <div class="col-sm-2"></div>
+        <div class="col-sm-5">
+          <ul class="footer-text">
+            <li>
+              <p class="foot-text">Задать вопросы и получить дополнительную информацию:</p>
+            </li>
+            <li>
+              <p class="foot-text"><a href="mailto:pr@qwmo.net">pr@qwmo.net</a> </p>
+            </li>
+            <li>
+              <p class="foot-text"><a href="tel:+77084396448">+7 708 439 64 48</a></p>
+            </li>
+            <li>
+              <p class="foot-text">100000, г. Караганда, улица Алиханова, 1, каб. 314</p>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
   <!-- /#contact -->
 <?php include 'includes/footer.php'; ?>
 </body>
