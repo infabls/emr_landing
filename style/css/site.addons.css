@@ -85,6 +85,7 @@
 	width: 100%;
 }
 .main-txt{
+	background-color: #0000008a;
 	display: -webkit-flex;
 	display: -moz-flex;
 	display: -ms-flex;
@@ -133,7 +134,7 @@
 .parallax.parallax3:before{
 	content: '';
 	position: absolute;
-	background: rgb(0,0,0,0.7);
+	background: #000000f2;
 	    height: 100%;
     width: 100%;
 }
@@ -241,4 +242,7 @@
 #bottomsect {
 	width: 100%;
 	min-height: 355px;
+}
+.navbar-brand {
+	display: none !important;
 }
