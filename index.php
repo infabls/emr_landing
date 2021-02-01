@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="ru">
 <?php include 'includes/head.php'; ?>
-<title>Промотход сервис - контейнеры для мусора для бизнеса</title>
-<meta name="description" content="Экологичные контейнерные площадки для вашего бизнеса. От проекта до внедрения">
+<title>Экомаркер</title>
+<meta name="description" content="Экомаркер">
 <meta name="robots" content="index,follow">
-<link rel="canonical" href="https://rpo.kz"/>
+<link rel="canonical" href="https://emr.kz"/>
 </head>
 <!-- <link href="style/css/site.addons.css" rel="stylesheet"> -->
 <body>
@@ -90,114 +90,7 @@
   </div> -->
   <!-- /.parallax -->
   
-  <div id="portfolio" class="section anchor">
-    <div class="dark-wrapper">
-      <div class="container inner">
-        <h2 class="section-title text-center">КОНТЕЙНЕРЫ
-</h2>
-        <!-- <p class="lead main text-center">С КОТОРЫМИ РАБОТАЕТ НАША КОМПАНИЯ</p> -->
-        <div class="grid-portfolio fix-portfolio">
-          <ul class="filter">
-            <li><a class="active" href="#" data-filter="*">Все контейнеры</a></li>
-            <li><a href="#" data-filter=".one">КОНТЕЙНЕРЫ ДЛЯ ПРОМЫШЛЕННЫХ ОТХОДОВ</a></li>
-            <li><a href="#" data-filter=".two">КОНТЕЙНЕРЫ ДЛЯ ОТРАБОТАННЫХ ЛЮМИНЕСЦЕНТНЫХ (РТУТЬСОДЕРЖАЩИХ) ЛАМП</a></li>
-            <li><a href="#" data-filter=".three">КОНТЕЙНЕРЫ ДЛЯ РАЗДЕЛЬНОГО СБОРА ОТХОДОВ</a></li>
-            <li><a href="#" data-filter=".four">АВАРИЙНЫЕ КОМПЛЕКТЫ И СОРБЕНТЫ</a></li>
-          </ul>
-          
-          <!-- /filter -->
-          
-          <ul class="content-slider items">
-            <li class="item thumb one yw">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-1.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" alt="" /> </a></figure>
-            </li>
-            <li class="item thumb one bl">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-2.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\2min-min.jpg" alt="" /> </a></figure>
-            </li>
-                        <li class="item thumb one or">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-3.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\4min-min.jpg" alt="" /> </a></figure>
-            </li>
-                        <li class="item thumb two yw">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-5.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\7min-min.jpg" alt="" /> </a></figure>
-            </li>
-                        <li class="item thumb two bl">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-4.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\11.jpg" alt="" /> </a></figure>
-            </li> 
-     <li class="item thumb three or">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-7.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\2m-min.jpg" alt="" /> </a></figure>
-            </li>
 
-                         <li class="item thumb three yw">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-8.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\3m-min.jpg" alt="" /> </a></figure>
-            </li>
-                                 <li class="item thumb two bl">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-6.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\1m-min.jpg" alt="" /> </a></figure>
-            </li>
-
-             <li class="item thumb four or">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-9.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\4m-min.jpg" alt="" /> </a></figure>
-            </li>
-                        <li class="item thumb four yw">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-11.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\6m-min.jpg" alt="" /> </a></figure>
-            </li>
-             <li class="item thumb four bl">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-10.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\5m-min.jpg" alt="" /> </a></figure>
-            </li> 
-
-
-          </ul>
-          <!-- /.items --> 
-        </div>
-        <!-- /.portfolio --> 
-      </div>
-    </div>
-  </div>
-  <!-- /#portfolio -->
-  
 <!--   <div class="parallax parallax2 work-together">
     <div class="container inner text-center">
       <h1>We Create Unique <span class="colored">&</span> Gorgeous Things</h1>

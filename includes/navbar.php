@@ -7,9 +7,9 @@
             <li><a href="/">Главная</a></li>
             <!-- <li><a href="#services">Services</a></li>
             <li><a href="#portfolio">Portfolio</a></li> -->
-            <li><a href="../pages/about">О нас</a></li>
+            <!-- <li><a href="../pages/about">О нас</a></li> -->
             <!-- <li><a href="#pricing">Pricing</a></li> -->
-            <li><a href="../pages/contacts">Контакты</a></li>
+<!--             <li><a href="../pages/contacts">Контакты</a></li> -->
 <!--             <li class="dropdown"><a href="#" class="dropdown-toggle js-activated">Features</a>
               <ul class="dropdown-menu">
                 <li class="dropdown-submenu"><a href="#">Blog</a>

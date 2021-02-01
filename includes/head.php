@@ -6,11 +6,11 @@
 <link rel="shortcut icon" href="https://rpo.kz/style/images/favicon.png">
 
  <!-- social -->
-<meta property="og:title" content="Промотход Сервис">
+<meta property="og:title" content="Экомаркер">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://rpo.kz/">
+<meta property="og:url" content="https://emr.kz">
 <meta property="og:image" content="https://rpo.kz/style/images/social.jpg">
-<meta property="og:site_name" content="Промотход Сервис">
+<meta property="og:site_name" content="Экомаркер">
 <!-- <meta property="fb:admins" content="">  -->
 <meta property="og:description" content="Экологичные контейнерные площадки для вашего бизнеса">
 <meta property="og:locale" content="ru_RU">
@@ -18,9 +18,9 @@
 <meta name="twitter:card" content="summary_large_image">
 <!-- <meta name="twitter:site" content="@Freepik_Vectors">
 <meta name="twitter:creator" content="@Freepik_Vectors"> -->
-<meta name="twitter:title" content="Промотход Сервис">
+<meta name="twitter:title" content="Экомаркер">
 <meta name="twitter:image:src" content="https://rpo.kz/style/images/social.jpg">
-<meta name="twitter:url" content="https://rpo.kz/">
+<meta name="twitter:url" content="https://emr.kz">
 <meta name="twitter:description" content="Экологичные контейнерные площадки для вашего бизнеса">
   <!-- social -->
 <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
