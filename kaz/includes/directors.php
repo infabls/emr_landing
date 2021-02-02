@@ -3,10 +3,10 @@
   <div class="container">
     <div class="row">
   <div class="col-sm-3">
-    <figure><img src="style/images/new/1.jpg" alt=""></figure>
+    <figure><img src="/style/images/new/1.jpg" alt=""></figure>
   </div>
   <div class="col-sm-3">
-    <figure><img src="style/images/new/2.jpg" alt=""></figure>
+    <figure><img src="/style/images/new/2.jpg" alt=""></figure>
   </div>
   <div class="col-sm-6">
     <h2>Our Working Place</h2>
