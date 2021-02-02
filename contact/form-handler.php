@@ -2,12 +2,12 @@
 include('SMTPClass.php');
 
 $use_smtp = '1';
-$emailto = 'vsa@qwmo.net';
+$emailto = 'pr@qwmo.net';
 
 	// retrieve from parameters
 	$emailfrom = isset($_POST["email"]) ? $_POST["email"] : "";
 	$nocomment = isset($_POST["nocomment"]) ? $_POST["nocomment"] : "";
-	$subject = 'Email from Frost';
+	$subject = 'Письмо с сайта emr.kz';
 	$message = '';
 	$response = '';
 	$response_fail = 'There was an error verifying your details.';
