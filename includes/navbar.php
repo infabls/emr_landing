@@ -5,8 +5,10 @@
         <nav class="collapse navbar-collapse pull-right">
           <ul class="nav navbar-nav">
             <li><a href="/">Главная</a></li>
+            <li><a href="#alltextneed">Преимущества</a></li>
             <li><a href="#portfolio">Партнеры</a></li>
             <li><a href="#contact">Контакты</a></li>
+            <li><a href="/kaz/">Каз</a></li>
             
             <!-- <li><a href="#services">Services</a></li>
             <li><a href="#portfolio">Portfolio</a></li> -->
