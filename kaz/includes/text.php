@@ -1,4 +1,4 @@
-<section id="alltextneed">
+<section id="advantages">
     <div class="container inner">
       <div class="row">
         <div class="col-sm-2">

@@ -5,8 +5,8 @@
         <nav class="collapse navbar-collapse pull-right">
           <ul class="nav navbar-nav">
             <li><a href="/kaz/">Главная</a></li>
-            <li><a href="#alltextneed">Преимущества</a></li>
-            <li><a href="#portfolio">Cеріктестеріміз</a></li>
+            <li><a href="#advantages">Преимущества</a></li>
+            <li><a href="#partners">Cеріктестеріміз</a></li>
             <li><a href="#contact">Контактілер</a></li>
             <li><a href="/">Рус</a></li>
             

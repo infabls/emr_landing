@@ -1,4 +1,4 @@
-<div id="portfolio" class="section anchor" style="padding-top: 53px; margin-top: -53px;">
+<div id="partners" class="section anchor" style="padding-top: 53px; margin-top: -53px;">
     <div class="dark-wrapper">
       <div class="container inner">
         <h2 class="section-title text-center">Наши партнеры</h2>
