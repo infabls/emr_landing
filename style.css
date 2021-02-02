@@ -1727,6 +1727,7 @@ figure a .text-overlay .info {
     color: #fff;
     font-size: 16px;
     font-weight: 600;
+    padding: 10px;
 }
 .icon-overlay {
     display: block;

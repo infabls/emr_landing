@@ -18,16 +18,17 @@
 </div>
 <!-- .body-wrapper --> 
 <!-- Bootstrap core CSS -->
-<link href="https://emr.kz/style/css/bootstrap.css" rel="stylesheet">
+<!-- <link href="https://emr.kz/style/css/bootstrap.css" rel="stylesheet">
 <link href="https://emr.kz/style/css/settings.css" rel="stylesheet">
 <link href="https://emr.kz/style/css/owl.carousel.css" rel="stylesheet">
 <link href="https://emr.kz/style/js/google-code-prettify/prettify.css" rel="stylesheet">
-<!-- <link href="https://emr.kz/style/js/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" media="all" />
-<link href="https://emr.kz/style/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=1.0.2" rel="stylesheet" type="text/css" /> -->
+<link href="https://emr.kz/style/js/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" media="all" />
+<link href="https://emr.kz/style/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=1.0.2" rel="stylesheet" type="text/css" />
 <link href="https://emr.kz/style.css" rel="stylesheet">
-<!-- <link href="https://emr.kz/style/css/color/blue.css" rel="stylesheet"> -->
-<link href="https://emr.kz/style/type/budicons.css" rel="stylesheet">
-<link href="../../style/css/site.addons.css" rel="stylesheet">
+<link href="https://emr.kz/style/css/color/blue.css" rel="stylesheet">
+<link href="https://emr.kz/style/type/budicons.css" rel="stylesheet"> -->
+<link href="/style/css/compressed.css" rel="stylesheet">
+<link href="/style/css/site.addons.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
 <script src="https://emr.kz/style/js/jquery.min.js"></script> 
 <script src="https://emr.kz/style/js/bootstrap.min.js"></script> 
