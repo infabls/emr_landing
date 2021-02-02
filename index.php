@@ -148,6 +148,7 @@
     <!-- /.container --> 
   </div>
   <!-- /.parallax -->
+  <?php require 'includes/partners.php'; ?>
   <?php require 'includes/text.php'; ?>
 
   <div id="contact" class="section anchor">
