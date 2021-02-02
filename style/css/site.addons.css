@@ -265,3 +265,7 @@
 .foot-text {
 	text-align: center;
 }
+figure a .text-overlay {
+	opacity: 1;
+	background:#006298;
+}
