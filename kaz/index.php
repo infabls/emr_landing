@@ -32,7 +32,7 @@
       <!-- /.fullscreenbanner-container --> 
     </div>
   </div>
-  <script src="https://rpo.kz/style/js/lazy.js"></script>
+  <script src="https://emr.kz/style/js/lazy.js"></script>
   <?php require 'includes/directors.php'; ?>
 
 <!--   <div id="services" class="section anchor">
@@ -133,7 +133,7 @@
 
   </div> -->
   <!-- /.parallax -->
-  <div class="parallax parallax3 customers lazyload" data-bg="style/images/1pt.jpg">
+  <div class="parallax parallax3 customers lazyload" data-bg="/style/images/1pt.jpg">
     <div class="container inner text-center">
       <div class="testimonials">
         <div class="item">
@@ -205,7 +205,7 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-3">
-          <img class="lazyload logo-white" data-src="style/images/new/logo-white.png" alt="">
+          <img class="lazyload logo-white" data-src="/style/images/new/logo-white.png" alt="">
         </div>
         <div class="col-sm-2"></div>
         <div class="col-sm-2"></div>

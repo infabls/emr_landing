@@ -32,7 +32,7 @@
       <!-- /.fullscreenbanner-container --> 
     </div>
   </div>
-  <script src="https://rpo.kz/style/js/lazy.js"></script>
+  <script src="https://emr.kz/style/js/lazy.js"></script>
   <?php require 'includes/directors.php'; ?>
 
 <!--   <div id="services" class="section anchor">
