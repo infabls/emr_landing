@@ -2,7 +2,7 @@
     <div class="dark-wrapper">
       <div class="container inner">
         <h2 class="section-title text-center">Наши партнеры</h2>
-        <p class="lead main text-center">Список компаний, подписавших меморандум и поддержавших начало казахстанского проекта ECOMARKER:</p>
+        <p class="lead main text-center">Список компаний, подписавших меморандум и поддержавших запуск казахстанского проекта ECOMARKER YELIMAY:</p>
         <div class="grid-portfolio fix-portfolio">
 <!--           <ul class="filter">
             <li><a class="active" href="#" data-filter="*">All</a></li>

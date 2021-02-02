@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <?php include 'includes/head.php'; ?>
-<title>Экомаркер</title>
-<meta name="description" content="Экомаркер">
+<title>ECOMARKER ELIMAY</title>
+<meta name="description" content="ECOMARKER ELIMAY">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://emr.kz"/>
 </head>
@@ -162,7 +162,7 @@
             <li><i class="icon-location"></i>100000, РК, Караганда, улица Алиханова, д. 1, 3 этаж, кабинет 314</li>
             <li><i class="icon-phone"></i><a href="tel:+77084396448">+7 708 439 64 48</a></li>
             <li><i class="icon-phone"></i><a href="tel:+77212794050">+7 (7212) 79 40 50</a></li>
-            <li><i class="icon-mail"></i><a href="mailto:pr@qwmo.net">pr@qwmo.net</a> </li>
+            <li><i class="icon-mail"></i><a href="mailto:pr@qwmo.net@qwmo.net">pr@qwmo.net</a> </li>
           </ul>
           <div class="divide50"></div>
           <div class="form-container">
