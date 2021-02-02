@@ -1,9 +1,9 @@
   <footer class="footer lazyload" data-bg="/style/images/new/head.png">
     <div class="container inner">
-      <p class="pull-left">© 2021 Экомаркер.</p>
+      <p class="pull-left">2021 ECOMARKER YELIMAY</p>
       <ul class="social pull-right">
-        <li><a>Media Center</a></li>
-        <li><a target="_blank" rel="nofollow" href="https://instagram.com/niro_dit">@niro_dit</a></li>
+        <li><a>© Media Center</a></li><br>
+        <li><a target="_blank" rel="nofollow" href="https://instagram.com/niro_dit" style="font-size: 16px;">@niro_dit</a></li>
 <!--         <li><a href="#"><i class="icon-s-twitter"></i></a></li>
         <li><a href="#"><i class="icon-s-facebook"></i></a></li>
         <li><a href="#"><i class="icon-s-dribbble"></i></a></li>
