@@ -187,7 +187,7 @@
                     <input id="nocomment" value="" name="nocomment" />
                   </li>
                   <li class="button-row">
-                    <input type="submit" value="Отправить сообщение" name="submit" class="btn btn-submit bm0" />
+                    <input type="submit" value="Отправить сообщение" name="submit" class="btn btn-submit bm0" id="formbutton" />
                   </li>
                 </ol>
                 <input type="hidden" name="v_error" id="v-error" value="Required" />
