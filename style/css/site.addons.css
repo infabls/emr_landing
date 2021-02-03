@@ -269,3 +269,6 @@ figure a .text-overlay {
 	opacity: 1;
 	background:#006298;
 }
+#contact .dark-wrapper {
+	background: #ddd;
+}
