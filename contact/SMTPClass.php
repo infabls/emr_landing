@@ -3,7 +3,7 @@
 class SMTPClient
 {
 
-function SMTPClient ($SmtpServer, $SmtpPort, $SmtpUser, $SmtpPass, $from, $to, $subject, $body)
+function  __construct ($SmtpServer, $SmtpPort, $SmtpUser, $SmtpPass, $from, $to, $subject, $body)
 {
 
 $this->SmtpServer = $SmtpServer;
