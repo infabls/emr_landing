@@ -19,7 +19,7 @@
                         <h1>
                           ECOMARKER ELIMAY
                         </h1>
-                        <p class="small-txt">РАЗРАБОТКА, РЕАЛИЗАЦИЯ И ГАРАНТИЯ КАЧЕСТВА КОНТЕЙНЕРОВ ДЛЯ ОТХОДОВ</p>
+                        <p class="small-txt">МАКСИМАЛЬНАЯ ЭКОНОМИЯ ДЛЯ БИЗНЕСА</p>
 <!--                <a class="inst-link" target="_blank" rel="nofollow" href="https://www.instagram.com/"><img class="inst" src="style/images/icon/inst.png" alt="instagram"></a> -->
                 <div class="smooth"><a href="#contact" class="btn btn-border-lite">Заполнить форму</a></div>
           </div>
