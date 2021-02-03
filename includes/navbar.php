@@ -1,7 +1,7 @@
   <div class="navbar default">
     <div class="navbar-header">
       <div class="container">
-        <div class="basic-wrapper"> <a class="btn responsive-menu pull-right" data-toggle="collapse" data-target=".navbar-collapse"><i class='icon-menu-1'></i></a> <a class="navbar-brand parallelogram" href="../"><!-- <img src="/style/images/new/logo.png" alt="" class="" /> --></a> </div>
+        <div class="basic-wrapper"> <a class="btn responsive-menu pull-right" data-toggle="collapse" data-target=".navbar-collapse"><i class='icon-menu-1'></i></a> <a class="navbar-brand parallelogram" href="../"> <img src="/style/images/new/logo.png" alt="" class="" /></a> </div>
         <nav class="collapse navbar-collapse pull-right">
           <ul class="nav navbar-nav">
             <li><a href="/">Главная</a></li>
