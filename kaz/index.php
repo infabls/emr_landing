@@ -15,14 +15,14 @@
     <div class="light-wrapper">
       <div class="fullscreenbanner-container revolution">
         <div class="fullscreenbanner">
-          <div class="main-txt">
+<!--           <div class="main-txt">
                         <h1>
                           ЭКОЛОГИЧНОЕ РЕШЕНИЕ  ПО УПРАВЛЕНИЮ ОТХОДАМИ. <br> СИСТЕМА КОНТЕЙНЕРОВ, ОТВЕЧАЮЩАЯ ЛЮБЫМ ТРЕБОВАНИЯМ
                         </h1>
                         <p class="small-txt">РАЗРАБОТКА, РЕАЛИЗАЦИЯ И ГАРАНТИЯ КАЧЕСТВА КОНТЕЙНЕРОВ ДЛЯ ОТХОДОВ</p>
-               <!-- <a class="inst-link" target="_blank" rel="nofollow" href="https://www.instagram.com/"><img class="inst" src="style/images/icon/inst.png" alt="instagram"></a> -->
+                <a class="inst-link" target="_blank" rel="nofollow" href="https://www.instagram.com/"><img class="inst" src="style/images/icon/inst.png" alt="instagram"></a>
               
-          </div>
+          </div> -->
  
 
           <div class="tp-bannertimer tp-bottom"></div>
