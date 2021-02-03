@@ -9,12 +9,14 @@
 }
 .navbar-header{
 	background: url('../images/new/head.png');
+	box-shadow: 0 2px 4px 1px #0000004d;
 	background-position-x: 50%;
 	background-repeat: no-repeat;
 	/*background: #9a1f1f;*/
 }
 .navbar .navbar-collapse{
-		background: url('../images/new/head.png');
+	background: url('../images/new/head.png');
+	box-shadow: 0 2px 4px 1px #0000004d;
 }
 .navbar.fixed .navbar-collapse .navbar-nav{
 	overflow-y: unset;
@@ -72,7 +74,7 @@
 }
 /*MAIN*/
 .fullscreenbanner{
-	background: url(../images/new/fon.jpg);
+	background: url(../images/new/backs/end.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100vh;
@@ -277,6 +279,7 @@ figure a .text-overlay {
 	border: 1px solid rgba(0,0,0,0.35);
 	padding: 10px;
 	margin-top: 20px;
+	background: url(../images/new/backs/text.png);
 }
 .backicon {
 	width: 100%;
