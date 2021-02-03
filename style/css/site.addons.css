@@ -267,7 +267,7 @@
 }
 figure a .text-overlay {
 	opacity: 1;
-	background:#006298;
+	background:#310050d9;
 }
 #contact .dark-wrapper {
 	background: #ddd;
@@ -284,5 +284,19 @@ figure a .text-overlay {
 @media(max-width: 768px){
 	.backicon {
 		display: none !important;
+	}
+	figure a .text-overlay .info {
+		top:30%;
+	}
+}
+
+
+/*partners*/
+figure a .text-overlay .info {
+	padding: 20px;
+}
+@media(min-width: 1200px){
+	figure a .text-overlay .info{
+		top: 30%;
 	}
 }
