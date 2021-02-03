@@ -16,12 +16,12 @@
       <div class="fullscreenbanner-container revolution">
         <div class="fullscreenbanner">
           <div class="main-txt">
-                        <h1>
-                          ECOMARKER ELIMAY
-                        </h1>
-                        <p class="small-txt">МАКСИМАЛЬНАЯ ЭКОНОМИЯ ДЛЯ БИЗНЕСА</p>
+            <h1>ECOMARKER ELIMAY</h1>
+            <p class="small-txt">МАКСИМАЛЬНАЯ ЭКОНОМИЯ ДЛЯ БИЗНЕСА</p>
 <!--                <a class="inst-link" target="_blank" rel="nofollow" href="https://www.instagram.com/"><img class="inst" src="style/images/icon/inst.png" alt="instagram"></a> -->
-                <div class="smooth"><a href="#contact" class="btn btn-border-lite">Заполнить форму</a></div>
+            <div class="smooth">
+              <a href="#contact" class="btn btn-border-lite" id="formbutton">Заполнить форму</a>
+            </div>
           </div>
  
 
