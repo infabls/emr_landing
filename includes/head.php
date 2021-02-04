@@ -22,6 +22,8 @@
 <meta name="twitter:image:src" content="https://rpo.kz/style/images/social.png">
 <meta name="twitter:url" content="https://emr.kz">
 <meta name="twitter:description" content="Экологичные контейнерные площадки для вашего бизнеса">
+<script src="https://emr.kz/style/js/lazy.js"></script>
+
   <!-- social -->
 <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>

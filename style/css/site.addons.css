@@ -277,7 +277,7 @@ figure a .text-overlay {
 }
 
 .firtstext {
-	border: 1px solid rgba(0,0,0,0.35);
+	box-shadow: 0 4px 12px 4px #00000059;
 	padding: 10px;
 	margin-top: 20px;
 	background: url(../images/new/backs/text.png);
@@ -327,4 +327,10 @@ figure a .text-overlay .info {
 	figure a .text-overlay .info{
 		top: 30%;
 	}
+}
+
+
+/*link buttons block*/ 
+#linkbuttons .btn {
+	white-space: normal;
 }
