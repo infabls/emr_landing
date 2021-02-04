@@ -20,7 +20,7 @@
             <p class="small-txt">МАКСИМАЛЬНАЯ ЭКОНОМИЯ ДЛЯ БИЗНЕСА</p>
 <!--                <a class="inst-link" target="_blank" rel="nofollow" href="https://www.instagram.com/"><img class="inst" src="style/images/icon/inst.png" alt="instagram"></a> -->
             <div class="smooth">
-              <a href="#contact" class="btn btn-border-lite" id="formbutton">Заполнить форму</a>
+              <a href="#63rvn5" class="btn btn-border-lite b24-web-form-popup-btn-24" id="formbutton">Заполнить форму</a>
             </div>
           </div>
  

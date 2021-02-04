@@ -74,3 +74,13 @@
 <script src="https://emr.kz/style/js/retina.js"></script> 
 <script src="https://emr.kz/style/js/google-code-prettify/prettify.js"></script> 
 <script src="https://emr.kz/style/js/scripts.js"></script>
+    <script id="bx24_form_button" data-skip-moving="true">
+      (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
+          (w[b].forms=w[b].forms||[]).push(arguments[0])};
+          if(w[b]['forms']) return;
+          var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
+          var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+      })(window,document,'https://qwmo.bitrix24.kz/bitrix/js/crm/form_loader.js','b24form');
+      
+      b24form({"id":"24","lang":"ru","sec":"p14kcq","type":"button","click":""});
+    </script>
