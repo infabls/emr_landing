@@ -272,6 +272,10 @@ figure a .text-overlay {
 	background: #ddd;
 }
 
+#directors img {
+	margin-bottom: 20px;
+}
+
 .firtstext {
 	border: 1px solid rgba(0,0,0,0.35);
 	padding: 10px;
