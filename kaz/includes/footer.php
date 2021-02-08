@@ -9,7 +9,7 @@
         <div class="col-sm-5">
           <ul class="footer-text">
             <li>
-              <p class="foot-text">Задать вопросы и получить дополнительную информацию:</p>
+              <p class="foot-text">Сұрақтар қою және қосымша ақпарат алу:</p>
             </li>
             <li>
               <p class="foot-text"><a href="mailto:pr@qwmo.net">pr@qwmo.net</a> </p>
@@ -18,7 +18,7 @@
               <p class="foot-text"><a href="tel:+77084396448">+7 708 439 64 48</a></p>
             </li>
             <li>
-              <p class="foot-text">100000, г. Караганда, улица Алиханова, 1, каб. 314</p>
+              <p class="foot-text">100000, Қарағанды қаласы, Әлиханов көшесі, 1, каб. 314, Media Center</p>
             </li>
           </ul>
         </div>

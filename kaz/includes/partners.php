@@ -2,7 +2,7 @@
     <div class="dark-wrapper">
       <div class="container inner">
         <h2 class="section-title text-center">Наши партнеры</h2>
-        <p class="lead main text-center">Список компаний, подписавших меморандум и поддержавших запуск казахстанского проекта ECOMARKER YELIMAY:</p>
+        <p class="lead main text-center">Меморандумға қол қойған және қазақстандық ECOMARKER YELIMAY жобасына қолдау көрсеткен компаниялар тізімі:</p>
         <div class="grid-portfolio fix-portfolio">
 <!--           <ul class="filter">
             <li><a class="active" href="#" data-filter="*">All</a></li>
@@ -18,49 +18,49 @@
             <li class="item thumb web isotope-item" >
               <figure><a target="_blank" href="https://qwmo.net" >
                 <div class="text-overlay">
-                  <div class="info">ТОО «Казахстанский оператор по управлению отходами» - осуществляет свою деятельность во всех регионах Казахстана. Работает со всеми видами отходов кроме ядов и прекурсоров;</div>
+                  <div class="info">"Казахстанский оператор по управлению отходами" ЖШС - өз қызметін Қазақстанның барлық өңірлерінде жүзеге асырады. Улар мен прекурсорлардан басқа қалдықтардың барлық түрлерімен жұмыс істейді;</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt="ТОО «Казахстанский оператор по управлению отходами»"> </a></figure>
             </li>
             <li class="item thumb graphic isotope-item">
               <figure><a target="_blank" href="https://promothod.kz" >
                 <div class="text-overlay">
-                  <div class="info">ТОО «ПРОМОТХОД КАЗАХСТАН» - экспериментальная научно-исследовательская площадка по внедрению новых способов сбора, транспортировки, переработки, обезвреживания, утилизации и захоронения опасных отходов; </div>
+                  <div class="info">«ПРОМОТХОД КАЗАХСТАН» ЖШС - қауіпті қалдықтарды жинаудың, тасымалдаудың, қайта өңдеудің, залалсыздандырудың, кәдеге жаратудың және көмудің жаңа тәсілдерін енгізу жөніндегі эксперименттік ғылыми-зерттеу алаңы;</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt="ТОО «ПРОМОТХОД КАЗАХСТАН»"> </a></figure>
             </li>
             <li class="item thumb web isotope-item">
               <figure><a  href="#">
                 <div class="text-overlay">
-                  <div class="info">ТОО «Промышленные отходы» - работает на всей территории Казахстана. Не является плательщиком НДС;</div>
+                  <div class="info">«Промышленные отходы» ЖШС - Қазақстанның барлық аумағында жұмыс істейді. ҚҚС төлеуші болып табылмайды;</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt="ТОО «Промышленные отходы»"> </a></figure>
             </li>
             <li class="item thumb web isotope-item">
               <figure><a target="_blank" href="https://trrr.kz">
                 <div class="text-overlay">
-                  <div class="info">ТОО «RRR Technology» - специализируется на сборе, транспортировке и переработке вторичного сырья. Имеет представителей во всех регионах РК;</div>
+                  <div class="info">"RRR Technology" ЖШС - қайталама шикізатты жинауға, тасымалдауға және қайта өңдеуге маманданған. ҚР барлық өңірлерінде өкілдері бар;</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt="RRR technology"> </a></figure>
             </li>
             <li class="item thumb photo isotope-item">
               <figure><a target="_blank" href="https://empls.biz">
                 <div class="text-overlay">
-                  <div class="info">ТОО «Экоимпульс» - занимается сбором и глубокой переработкой электронной и электрической техники, которая также отнесена к категории опасных отходов. Имеет своих представителей в большинстве областей Казахстана;</div>
+                  <div class="info">"Экоимпульс" ЖШС - қауіпті қалдықтар санатына жатқызылған электрондық және электр техникасын жинаумен және терең өңдеумен айналысады. Қазақстанның көптеген облыстарында өз өкілдері бар;</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt=""> </a></figure>
             </li>
             <li class="item thumb motion isotope-item">
               <figure><a target="_blank" href="https://kzsr.kz">
                 <div class="text-overlay">
-                  <div class="info">ТОО «КазВторРесурс» - лидер в области обращения со вторичным сырьем;</div>
+                  <div class="info">«КазВторРесурс» ЖШС - қайталама шикізатпен жұмыс істеу саласындағы көшбасшы;</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt="ТОО «КазВторРесурс»"> </a></figure>
             </li>
             <li class="item thumb photo isotope-item">
               <figure><a href="#">
                 <div class="text-overlay">
-                  <div class="info">ТОО «Smart Waste» - работает в северных регионах Казахстана со всеми видами опасных отходов;</div>
+                  <div class="info">«Smart Waste» ЖШС  - Қазақстанның солтүстік өңірлерінде қауіпті қалдықтардың барлық түрлерімен жұмыс істейді;</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt="ТОО «Smart Waste»"> </a></figure>
             </li>
@@ -74,84 +74,84 @@
             <li class="item thumb graphic isotope-item">
               <figure><a target="_blank" href="https://rpo.kz" >
                 <div class="text-overlay">
-                  <div class="info">ТОО «Промотход Сервис» - специализируется на проектировании и обустройстве контейнерных площадок для раздельного сбора отходов по всему Казахстану;</div>
+                  <div class="info">«Промотход Сервис» ЖШС - Қазақстан бойынша қалдықтарды бөлек жинауға арналған контейнерлік алаңдарды жобалау мен жайластыруға маманданған;</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt="ТОО «Промотход Сервис»"> </a></figure>
             </li>
             <li class="item thumb web isotope-item">
               <figure><a href="#">
                 <div class="text-overlay">
-                  <div class="info">ТОО «ПромЭкоТехнология» - экологическое проектирование и нормирование, экологический аудит и экологическое сопровождение;</div>
+                  <div class="info">"ПромЭкоТехнология" ЖШС - экологиялық жобалау және нормалау, экологиялық аудит және экологиялық сүйемелдеу;</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt="ТОО «ПромЭкоТехнология»"> </a></figure>
             </li>
             <li class="item thumb motion isotope-item">
               <figure><a href="#">
                 <div class="text-overlay">
-                  <div class="info">ТОО «Waste Logistic» - казахстанская транспортно-логистическая компания. Имеет специальное разрешение на перевозку опасных отходов;</div>
+                  <div class="info">"Waste Logistic" ЖШС - қазақстандық көлік-логистикалық компания. Қауіпті қалдықтарды тасымалдауға арнайы рұқсаты бар;</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt="ТОО «Waste Logistic»"> </a></figure>
             </li>
             <li class="item thumb motion isotope-item">
               <figure><a href="#">
                 <div class="text-overlay">
-                  <div class="info">ТОО «Chemical Waste» - специализируется на обращении с химическими и другими видами опасных отходов;</div>
+                  <div class="info">"Chemical Waste" ЖШС - қауіпті қалдықтардың химиялық және басқа түрлерімен жұмыс істеуге маманданған;</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt="ТОО «Chemical Waste»"> </a></figure>
             </li>
             <li class="item thumb photo isotope-item">
               <figure><a href="#">
                 <div class="text-overlay">
-                  <div class="info">ТОО «Промотход Восток» - осуществляет свою деятельность в восточных регионах страны. Работает со всеми видами промышленных отходов;</div>
+                  <div class="info">"Промотход Восток" ЖШС - өз қызметін еліміздің шығыс өңірлерінде жүзеге асырады. Өнеркәсіптік қалдықтардың барлық түрлерімен жұмыс істейді;</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt="ТОО «Промотход Восток»"> </a></figure>
             </li>
             <li class="item thumb graphic isotope-item">
               <figure><a href="#">
                 <div class="text-overlay">
-                  <div class="info">ТОО «Промотход Development» - работает в южных регионах Казахстана. Осуществляет обращение со всеми видами опасных отходов»;</div>
+                  <div class="info">"Промотход Development" ЖШС - Қазақстанның оңтүстік өңірлерінде жұмыс істейді. Қауіпті қалдықтардың барлық түрлерімен жұмыс істеуді жүзеге асырады»;</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt="ТОО «Промотход Development»"> </a></figure>
             </li>
             <li class="item thumb web isotope-item">
               <figure><a href="#">
                 <div class="text-overlay">
-                  <div class="info">ТОО «Утилизация LTD» – специализируется на обращении медицинских и других видов отходов в южных регионах Казахстана;</div>
+                  <div class="info">«Утилизация LTD»  ЖШС - Қазақстанның оңтүстік өңірлерінде медициналық және басқа да қалдықтар түрлерінің айналымына маманданған;</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt="ТОО «Утилизация LTD»"> </a></figure>
             </li>
             <li class="item thumb web isotope-item">
               <figure><a href="#">
                 <div class="text-overlay">
-                  <div class="info">ТОО «Waste Recycling Factory» - обращение со всеми видами опасных отходов в северном и центральном Казахстане;</div>
+                  <div class="info">"Waste Recycling Factory" ЖШС - Солтүстік және Орталық Қазақстандағы қауіпті қалдықтардың барлық түрлерімен айналысу;</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt="ТОО «Утилизация LTD»"> </a></figure>
             </li>
             <li class="item thumb web isotope-item">
               <figure><a href="#">
                 <div class="text-overlay">
-                  <div class="info">ТОО «Компания Артеко» - переработка органических отходов, производство органических удобрений.</div>
+                  <div class="info">"Компания Артеко" ЖШС - Органикалық қалдықтарды қайта өңдеу, органикалық тыңайтқыштар өндірісі.</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt="ТОО «Утилизация LTD»"> </a></figure>
             </li>
             <li class="item thumb web isotope-item">
               <figure><a href="#">
                 <div class="text-overlay">
-                  <div class="info">ТОО «Polymer Waste» - занимается утилизацией всех видов полимерных отходов. Работает во всех регионах;</div>
+                  <div class="info">"Polymer Waste" ЖШС - полимерлік қалдықтардың барлық түрлерін кәдеге жаратумен айналысады. Барлық өңірлерде жұмыс істейді;</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt="ТОО «Утилизация LTD»"> </a></figure>
             </li>
             <li class="item thumb web isotope-item">
               <figure><a href="#">
                 <div class="text-overlay">
-                  <div class="info">ТОО «Electronic Waste Recycling» - взаимодействует с государственными и коммунальными предприятиями по вопросу переработки и утилизации компьютерной и оргтехники;</div>
+                  <div class="info">"Electronic Waste Recycling" ЖШС - компьютерлік және ұйымдастыру техникасын қайта өңдеу және кәдеге жарату мәселесі бойынша мемлекеттік және коммуналдық кәсіпорындармен өзара іс-қимыл жасайды;</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt="ТОО «Утилизация LTD»"> </a></figure>
             </li>
             <li class="item thumb web isotope-item">
               <figure><a href="#">
                 <div class="text-overlay">
-                  <div class="info">ТОО «Казахстанский завод по производству газоочистного оборудования».</div>
+                  <div class="info">"Казахстанский завод по производству газоочистного оборудования" ЖШС.</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt="ТОО «Утилизация LTD»"> </a></figure>
             </li>
