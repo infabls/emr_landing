@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <?php include 'includes/head.php'; ?>
-<title>ECOMARKER ELIMAY</title>
-<meta name="description" content="ECOMARKER ELIMAY">
+<title>ECOMARKER YELIMAY</title>
+<meta name="description" content="ECOMARKER YELIMAY">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://emr.kz"/>
 </head>
@@ -16,7 +16,7 @@
       <div class="fullscreenbanner-container revolution">
         <div class="fullscreenbanner">
           <div class="main-txt">
-            <h1>ECOMARKER ELIMAY</h1>
+            <h1>ECOMARKER YELIMAY</h1>
             <p class="small-txt">МАКСИМАЛЬНАЯ ЭКОНОМИЯ ДЛЯ БИЗНЕСА</p>
 <!--                <a class="inst-link" target="_blank" rel="nofollow" href="https://www.instagram.com/"><img class="inst" src="style/images/icon/inst.png" alt="instagram"></a> -->
             <div class="smooth">
