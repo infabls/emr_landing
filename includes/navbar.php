@@ -8,7 +8,7 @@
             <li><a href="/#advantages">Преимущества</a></li>
             <li><a href="/#partners">Партнеры</a></li>
             <li><a href="/#contact">Контакты</a></li>
-            <li><a href="/kaz/">Каз</a></li>
+            <li><a href="/kaz/">Қаз</a></li>
             
             <!-- <li><a href="#services">Services</a></li>
             <li><a href="#portfolio">Portfolio</a></li> -->
