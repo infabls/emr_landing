@@ -246,6 +246,11 @@
 
 /*мои стили от 1.02.2021*/
 
+.lead {
+	font-weight: bold;
+	text-transform: unset;
+}
+
 #bottomsect {
 	width: 100%;
 	min-height: 355px;
