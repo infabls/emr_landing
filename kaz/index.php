@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="kz">
+<html lang="ru">
 <?php include 'includes/head.php'; ?>
 <title>ECOMARKER ELIMAY</title>
 <meta name="description" content="ECOMARKER ELIMAY">
@@ -15,14 +15,14 @@
     <div class="light-wrapper">
       <div class="fullscreenbanner-container revolution">
         <div class="fullscreenbanner">
-<!--           <div class="main-txt">
-                        <h1>
-                          ЭКОЛОГИЧНОЕ РЕШЕНИЕ  ПО УПРАВЛЕНИЮ ОТХОДАМИ. <br> СИСТЕМА КОНТЕЙНЕРОВ, ОТВЕЧАЮЩАЯ ЛЮБЫМ ТРЕБОВАНИЯМ
-                        </h1>
-                        <p class="small-txt">РАЗРАБОТКА, РЕАЛИЗАЦИЯ И ГАРАНТИЯ КАЧЕСТВА КОНТЕЙНЕРОВ ДЛЯ ОТХОДОВ</p>
-                <a class="inst-link" target="_blank" rel="nofollow" href="https://www.instagram.com/"><img class="inst" src="style/images/icon/inst.png" alt="instagram"></a>
-              
-          </div> -->
+          <div class="main-txt">
+            <h1>ECOMARKER ELIMAY</h1>
+            <p class="small-txt">МАКСИМАЛЬНАЯ ЭКОНОМИЯ ДЛЯ БИЗНЕСА</p>
+<!--                <a class="inst-link" target="_blank" rel="nofollow" href="https://www.instagram.com/"><img class="inst" src="style/images/icon/inst.png" alt="instagram"></a> -->
+            <div class="smooth">
+              <a href="#63rvn5" class="btn btn-border-lite b24-web-form-popup-btn-24" id="formbutton">Заполнить форму</a>
+            </div>
+          </div>
  
 
           <div class="tp-bannertimer tp-bottom"></div>
@@ -32,7 +32,6 @@
       <!-- /.fullscreenbanner-container --> 
     </div>
   </div>
-  <script src="https://emr.kz/style/js/lazy.js"></script>
   <?php require 'includes/directors.php'; ?>
 
 <!--   <div id="services" class="section anchor">
@@ -133,7 +132,7 @@
 
   </div> -->
   <!-- /.parallax -->
-  <div class="parallax parallax3 customers lazyload" data-bg="/style/images/1pt.jpg">
+  <div class="parallax parallax3 customers lazyload" data-bg="style/images/1pt.jpg">
     <div class="container inner text-center">
       <div class="testimonials">
         <div class="item">
@@ -150,85 +149,8 @@
   <!-- /.parallax -->
   <?php require 'includes/text.php'; ?>
   <?php require 'includes/partners.php'; ?>
-
-
-  <div id="contact" class="section anchor">
-    <div class="dark-wrapper">
-      <div class="container inner">
-        <div class="thin text-center">
-          <h2 class="section-title text-center">СВЯЖИТЕСЬ С НАМИ!</h2>
-          <p class="lead main text-center">НАПИШИТЕ ИЛИ ПОЗВОНИТЕ:</p>
-         <!--  <p>Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porta sem malesuada magna mollis euismod. Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia.</p> -->
-          <ul class="contact-info">
-            <li><i class="icon-location"></i>100000, РК, Караганда, улица Алиханова, д. 1, 3 этаж, кабинет 314</li>
-            <li><i class="icon-phone"></i><a href="tel:+77084396448">+7 708 439 64 48</a></li>
-            <li><i class="icon-phone"></i><a href="tel:+77212794050">+7 (7212) 79 40 50</a></li>
-            <li><i class="icon-mail"></i><a href="mailto:pr@qwmo.net@qwmo.net">pr@qwmo.net</a> </li>
-          </ul>
-          <div class="divide50"></div>
-          <div class="form-container">
-            <div class="response alert alert-success"></div>
-            <form class="forms" action="contact/form-handler.php" method="post">
-              <fieldset>
-                <ol class="row">
-                  <li class="form-row text-input-row name-field col-sm-6">
-                    <input type="text" name="name" class="text-input defaultText required" title="Имя"/>
-                  </li>
-                  <li class="form-row text-input-row email-field col-sm-6">
-                    <input type="text" name="email" class="text-input defaultText required email" title="Email"/>
-                  </li>
-                  <li class="form-row text-area-row col-sm-12">
-                    <textarea name="message" class="text-area required" title="Ваше сообщение"></textarea>
-                  </li>
-                  <li class="form-row hidden-row">
-                    <input type="hidden" name="hidden" value="" />
-                  </li>
-                  <li class="nocomment">
-                    <label for="nocomment">Оставьте ваше сообщение</label>
-                    <input id="nocomment" value="" name="nocomment" />
-                  </li>
-                  <li class="button-row">
-                    <input type="submit" value="Отправить сообщение" name="submit" class="btn btn-submit bm0" />
-                  </li>
-                </ol>
-                <input type="hidden" name="v_error" id="v-error" value="Required" />
-                <input type="hidden" name="v_email" id="v-email" value="Enter a valid email" />
-              </fieldset>
-            </form>
-          </div>
-          <!-- /.form-container -->
-          <div class="clearfix"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <section id="bottomsect">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-3">
-          <img class="lazyload logo-white" data-src="/style/images/new/logo-white.png" alt="">
-        </div>
-        <div class="col-sm-2"></div>
-        <div class="col-sm-2"></div>
-        <div class="col-sm-5">
-          <ul class="footer-text">
-            <li>
-              <p class="foot-text">Сұрақтар қою және қосымша ақпарат алу:</p>
-            </li>
-            <li>
-              <p class="foot-text"><a href="mailto:pr@qwmo.net">pr@qwmo.net</a> </p>
-            </li>
-            <li>
-              <p class="foot-text"><a href="tel:+77084396448">+7 708 439 64 48</a></p>
-            </li>
-            <li>
-              <p class="foot-text">100000, Қарағанды қаласы, Әлиханов көшесі, 1, каб. 314, Media Center</p>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </section>
+  <?php require 'includes/contacts.php'; ?>
+  <?php require 'includes/buttons.php'; ?>
   <!-- /#contact -->
 <?php include 'includes/footer.php'; ?>
 </body>

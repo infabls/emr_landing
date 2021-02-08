@@ -16,12 +16,12 @@
               <p>Мы уверены, что проект привлечет неравнодушных предпринимателей, разделяющих наши ценности!</p>
       </div>
       <div class="col-sm-3 col-xs-12 col-md-pull-6">
-        <figure><img src="style/images/new/1.jpg" alt=""></figure>
+        <figure><img src="/style/images/new/1.jpg" alt=""></figure>
         <p>Директор <br>ТОО "Казахстанский оператор по управлению отходами"</p>
         <b><h4>Вячеслав ТЮХТИН</h4></b>
       </div>
       <div class="col-sm-3 col-xs-12">
-        <figure><img src="style/images/new/2.jpg" alt=""></figure>
+        <figure><img src="/style/images/new/2.jpg" alt=""></figure>
         <p>Коммерческий директор <br>ТОО "Казахстанский оператор по управлению отходами"</p>
         <b><h4>Надежда СМИРНОВА</h4></b>
       </div>

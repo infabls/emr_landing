@@ -1,3 +1,30 @@
+<section id="bottomsect">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-3">
+          <img class="lazyload logo-white" data-src="/style/images/new/logo-white.png" alt="">
+        </div>
+        <div class="col-sm-2"></div>
+        <div class="col-sm-2"></div>
+        <div class="col-sm-5">
+          <ul class="footer-text">
+            <li>
+              <p class="foot-text">Задать вопросы и получить дополнительную информацию:</p>
+            </li>
+            <li>
+              <p class="foot-text"><a href="mailto:pr@qwmo.net">pr@qwmo.net</a> </p>
+            </li>
+            <li>
+              <p class="foot-text"><a href="tel:+77084396448">+7 708 439 64 48</a></p>
+            </li>
+            <li>
+              <p class="foot-text">100000, г. Караганда, улица Алиханова, 1, каб. 314</p>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
   <footer class="footer lazyload" data-bg="/style/images/new/head.png">
     <div class="container inner">
       <p class="pull-left">2021 ECOMARKER YELIMAY</p>
@@ -25,10 +52,10 @@
 <link href="https://emr.kz/style/js/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" media="all" />
 <link href="https://emr.kz/style/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=1.0.2" rel="stylesheet" type="text/css" />
 <link href="https://emr.kz/style.css" rel="stylesheet">
-<link href="https://emr.kz/style/css/color/blue.css" rel="stylesheet">
+ <link href="https://emr.kz/style/css/color/blue.css" rel="stylesheet">
 <link href="https://emr.kz/style/type/budicons.css" rel="stylesheet"> -->
 <link href="/style/css/compressed.css" rel="stylesheet">
-<link href="/style/css/site.addons.css" rel="stylesheet">
+<link href="../../style/css/site.addons.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
 <script src="https://emr.kz/style/js/jquery.min.js"></script> 
 <script src="https://emr.kz/style/js/bootstrap.min.js"></script> 
@@ -47,3 +74,13 @@
 <script src="https://emr.kz/style/js/retina.js"></script> 
 <script src="https://emr.kz/style/js/google-code-prettify/prettify.js"></script> 
 <script src="https://emr.kz/style/js/scripts.js"></script>
+    <script id="bx24_form_button" data-skip-moving="true">
+      (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
+          (w[b].forms=w[b].forms||[]).push(arguments[0])};
+          if(w[b]['forms']) return;
+          var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
+          var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+      })(window,document,'https://qwmo.bitrix24.kz/bitrix/js/crm/form_loader.js','b24form');
+      
+      b24form({"id":"24","lang":"ru","sec":"p14kcq","type":"button","click":""});
+    </script>
