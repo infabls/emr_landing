@@ -17,10 +17,10 @@
         <div class="fullscreenbanner">
           <div class="main-txt">
             <h1>ECOMARKER YELIMAY</h1>
-            <p class="small-txt">МАКСИМАЛЬНАЯ ЭКОНОМИЯ ДЛЯ БИЗНЕСА</p>
+            <p class="small-txt">БИЗНЕС ҮШІН МАКСИМАЛДЫ ҮНЕМДЕУ</p>
 <!--                <a class="inst-link" target="_blank" rel="nofollow" href="https://www.instagram.com/"><img class="inst" src="style/images/icon/inst.png" alt="instagram"></a> -->
             <div class="smooth">
-              <a href="#63rvn5" class="btn btn-border-lite b24-web-form-popup-btn-24" id="formbutton">Заполнить форму</a>
+              <a href="#63rvn5" class="btn btn-border-lite b24-web-form-popup-btn-24" id="formbutton">НЫСАНДЫ ТОЛТЫРУ</a>
             </div>
           </div>
  
@@ -137,9 +137,9 @@
       <div class="testimonials">
         <div class="item">
          
-          <blockquote><p>ECOMARKER YELIMAY – маркер добросовестности предприятия по надлежащей утилизации всех видов опасных отходов. Компания, присоединившаяся к проекту, подтверждает свое твердое намерение сформировать безопасную и благоприятную для жизни и здоровья работников и проживающих рядом с производством людей зону.</p>
-            <p>ECOMARKER YELIMAY даст мощный импульс для расширения безопасной среды.</p> 
-          <p><small>ECOMARKER YELIMAY – сигнал для всех тех, кому не безразлично в какой стране будут жить наши дети и внуки!</small></p>
+          <blockquote><p>ECOMARKER YELIMAY – қауіпті қалдықтардың барлық түрлерін тиісінше кәдеге жарату жөніндегі кәсіпорынның адалдық белгісі. Жобаға қосылған компания жұмысшылардың өмірі мен денсаулығы үшін қауіпсіз және қолайлы аймақ құруға деген ниетін растайды.</p>
+          <p>ECOMARKER YELIMAY қауіпсіз ортаны кеңейтуге күшті серпін береді.</p> 
+          <p><small>ECOMARKER YELIMAY – біздің балаларымыз және немерелеріміз қаңдай елде тұратынына бей-жай қарамайтын барлық адамдар үшін белгі!</small></p>
           </blockquote>
           </div>
         </div>

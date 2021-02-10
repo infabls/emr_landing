@@ -4,10 +4,10 @@
         <div class="basic-wrapper"> <a class="btn responsive-menu pull-right" data-toggle="collapse" data-target=".navbar-collapse"><i class='icon-menu-1'></i></a> <a class="navbar-brand parallelogram" href="../"> <img src="/style/images/new/logo.png" alt="" class="" /></a> </div>
         <nav class="collapse navbar-collapse pull-right">
           <ul class="nav navbar-nav">
-            <li><a href="/">Главная</a></li>
-            <li><a href="/kaz#advantages">Преимущества</a></li>
-            <li><a href="/kaz#partners">Партнеры</a></li>
-            <li><a href="/kaz#contact">Контакты</a></li>
+            <li><a href="/">Басты</a></li>
+            <li><a href="/kaz#advantages">Артықшылықтары</a></li>
+            <li><a href="/kaz#partners">Серіктестер</a></li>
+            <li><a href="/kaz#contact">Байланыстар</a></li>
             <li><a href="/">Рус</a></li>
             
             <!-- <li><a href="#services">Services</a></li>

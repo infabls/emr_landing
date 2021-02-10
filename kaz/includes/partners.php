@@ -1,7 +1,7 @@
 <div id="partners" class="section anchor" style="padding-top: 53px; margin-top: -53px;">
     <div class="dark-wrapper">
       <div class="container inner">
-        <h2 class="section-title text-center">Наши партнеры</h2>
+        <h2 class="section-title text-center">БІЗДІҢ СЕРІКТЕСТЕР</h2>
         <p class="lead main text-center">Меморандумға қол қойған және қазақстандық ECOMARKER YELIMAY жобасына қолдау көрсеткен компаниялар тізімі:</p>
         <div class="grid-portfolio fix-portfolio">
 <!--           <ul class="filter">
@@ -67,7 +67,7 @@
             <li class="item thumb web isotope-item">
               <figure><a href="#">
                 <div class="text-overlay">
-                  <div class="info">ТОО «Статус Караганда» - оформление дефектных актов для списания с баланса компьютерной и оргтехники;</div>
+                  <div class="info">"Статус Караганда" ЖШС - компьютерлік және ұйымдастыру техникасының теңгерімінен есептен шығару үшін ақаулы актілерді ресімдеу;</div>
                 </div>
                 <img src="/style/images/new/partners/0.jpg" alt="Статус Караганда"> </a></figure>
             </li>
