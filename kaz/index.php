@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="kz">
 <?php include 'includes/head.php'; ?>
 <title>ECOMARKER YELIMAY</title>
-<meta name="description" content="ECOMARKER YELIMAY">
+<meta name="description" content="ECOMARKER YELIMAY ">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://emr.kz"/>
 </head>
