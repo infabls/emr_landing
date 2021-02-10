@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <link rel="shortcut icon" href="https://emr.kz/style/images/new/favicon.png">
-
+ <meta name="theme-color" content="#4e2468">
  <!-- social -->
 <meta property="og:title" content="ECOMARKER YELIMAY">
 <meta property="og:type" content="article">
