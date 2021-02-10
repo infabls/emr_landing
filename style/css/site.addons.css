@@ -37,6 +37,7 @@
 }
 
 .parallelogram {
+	background:#4e2468;
     width: 160px;
     height: 100px;
     -webkit-transform: skew(30deg);
