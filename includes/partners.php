@@ -1,5 +1,5 @@
-<div id="partners" class="section anchor" style="padding-top: 53px; margin-top: -53px;">
-    <div class="dark-wrapper">
+<div id="partners" class="section anchor lazyload" data-bg="/style/images/new/backs/partners.jpg" style="padding-top: 53px; margin-top: -53px;">
+    <div class="wrapper">
       <div class="container inner">
         <h2 class="section-title text-center">Наши партнеры</h2>
         <p class="lead main text-center">Список компаний, подписавших меморандум и поддержавших запуск казахстанского проекта ECOMARKER YELIMAY:</p>
