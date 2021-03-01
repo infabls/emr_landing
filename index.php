@@ -132,7 +132,7 @@
 
   </div> -->
   <!-- /.parallax -->
-  <div class="parallax parallax3 customers lazyload" data-bg="style/images/1pt.jpg">
+  <div class="parallax parallax3 customers lazyload" data-bg="/style/images/new/backs/text.jpg">
     <div class="container inner text-center">
       <div class="testimonials">
         <div class="item">
