@@ -15,14 +15,10 @@
     <div class="light-wrapper">
       <div class="fullscreenbanner-container revolution">
         <div class="fullscreenbanner">
-          <div class="main-txt">
+         <!--  <div class="main-txt">
             <h1>ECOMARKER YELIMAY</h1>
             <p class="small-txt">МАКСИМАЛЬНАЯ ЭКОНОМИЯ ДЛЯ БИЗНЕСА</p>
-<!--                <a class="inst-link" target="_blank" rel="nofollow" href="https://www.instagram.com/"><img class="inst" src="style/images/icon/inst.png" alt="instagram"></a> -->
-            <div class="smooth">
-              <a href="#63rvn5" class="btn btn-border-lite b24-web-form-popup-btn-24" id="formbutton">Заполнить форму</a>
-            </div>
-          </div>
+          </div> -->
  
 
           <div class="tp-bannertimer tp-bottom"></div>
@@ -32,6 +28,13 @@
       <!-- /.fullscreenbanner-container --> 
     </div>
   </div>
+  <section id="service3">
+          <div class="servicebutton">
+        <div class="smooth">
+              <a href="#63rvn5" class="btn btn-border-lite b24-web-form-popup-btn-24" id="formbutton">Заполнить форму</a>
+        </div>
+      </div>
+  </section>
   <?php require 'includes/directors.php'; ?>
 
 <!--   <div id="services" class="section anchor">

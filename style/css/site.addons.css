@@ -245,6 +245,16 @@
 }
 }
 
+#service3 {
+	background-image: url(/style/images/new/backs/service.jpg);
+    min-height: 100px;
+    width: 100%;
+    text-align: center;
+}
+#service3 .smooth {
+	padding-top: 25px;
+}
+
 /*мои стили от 1.02.2021*/
 
 .lead {
