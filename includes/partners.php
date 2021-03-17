@@ -106,13 +106,6 @@
                 </div>
                 <img class="lazyload" src="/style/images/new/partner/15.jpg" data-src="/style/images/new/partner/15.jpg" alt="ТОО «Промотход Восток»"> </a></figure>
             </li>
-            <li class="item thumb graphic isotope-item">
-              <figure><a href="#">
-                <div class="text-overlay">
-                  <div class="info">ТОО «Промотход Development» - работает в южных регионах Казахстана. Осуществляет обращение со всеми видами опасных отходов».</div>
-                </div>
-                <img class="lazyload" src="/style/images/new/partner/15.jpg" data-src="/style/images/new/partner/15.jpg" alt="ТОО «Промотход Development»"> </a></figure>
-            </li>
             <li class="item thumb web isotope-item">
               <figure><a href="#">
                 <div class="text-overlay">
